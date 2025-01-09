@@ -37,7 +37,7 @@ This repository contains three reinforcement learning projects, each utilizing Q
 
 ---
 
-### **Q-Öğrenme ile Güçlendirmeli Öğrenme Projeleri**  
+### **Q-Öğrenme ile Pekiştirmeli Öğrenme Projeleri**  
 
 Bu depo, Q-Öğrenme algoritması kullanılarak farklı ortamlarda güçlendirmeli öğrenme projelerini içermektedir. Projeler, bir ajanın deneme-yanılma yoluyla optimal stratejiler öğrenmesini göstermektedir.  
 
